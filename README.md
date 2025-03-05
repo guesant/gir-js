@@ -3,11 +3,12 @@
 > [!WARNING]
 > This is a working-in-progress project!
 
-The goal of this project is to provide a slim integration with native libraries built with GObject Instrospection with help of libffi.
+The main goal of this project is to provide a slim integration with native libraries built with GObject Instrospection with help of libffi.
 
-- can generate automatically classes and methods;
-- can generate automatically typescript typings;
-- do not impose any strategy of usage.
+- can generate automatically classes and methods
+- can generate automatically typescript typings
+- do not impose any strategy of usage
+- do not impose any specific name casing
 
 ## Further Reference
 
